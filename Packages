@@ -24,6 +24,6 @@ Size: 65244
 MD5sum:	768f24b5768ddf686ed53ecbcfc311a8
 SHA1: 821ec4f0a049d4e86d2d160219804f4bb0692578
 SHA256: 3bf29f6536d55b6a8a89213f27be83afb70f94d87aa2c5505139cdddc7a9cdcf
-Section: Tweaks	Section: RDX deletreport
+Section: Section: RDX deletreport
 Depiction: https://rdxtools.github.io/repo
 Name: RDX deletreport
