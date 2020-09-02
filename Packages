@@ -20,6 +20,7 @@ Maintainer: RDX_team
 Depends:  mobilesubstrate 	
 Conflicts:  	com.RDX.deletreport
 Filename: 	debs/com.RDX.deletreport_0.18_iphoneos-arm.deb
+
 Size: 65244
 MD5sum: 	768f24b5768ddf686ed53ecbcfc311a8
 SHA1: 	821ec4f0a049d4e86d2d160219804f4bb0692578
