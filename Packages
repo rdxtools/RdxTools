@@ -1,0 +1,15 @@
+Package: 
+Version: 
+Architecture: iphoneos-arm
+Maintainer: rdxtools
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts:  	
+Filename: 	debs/RDXMenu_1.1.0.deb
+Size: 954850
+MD5sum: 	8ebaa13546618d6e369bf3b730444ddf
+SHA1: 	214ae65734c874a1cb9a422af627a389952a7c72
+SHA256: 	a1f151f5216d81aa92e4cca1621848c5a5c0c119b2893032084fb9556726af88
+Section: Tweaks	Section: RdxMenu
+Depiction: https://rdxtools.github.io/RdxTools
+Name: RdxMenu
+
