@@ -1,0 +1,29 @@
+Package: my
+Version: 0.17
+Architecture: iphoneos-arm
+Maintainer: rdxtools
+Depends: mobilesubstrate 	
+Conflicts: my
+Filename: debs/RDXMenu_1.1.0.deb
+Size: 954850
+MD5sum: 8ebaa13546618d6e369bf3b730444ddf
+SHA1: 214ae65734c874a1cb9a422af627a389952a7c72
+SHA256:	a1f151f5216d81aa92e4cca1621848c5a5c0c119b2893032084fb9556726af88
+Section: Tweaks	Section: RdxMenu
+Depiction: https://rdxtools.github.io/repo
+Name: RdxMenu
+
+Package: com.RDX.deletreport
+Version: 0.18
+Architecture: iphoneos-arm
+Maintainer: RDX_team
+Depends:  mobilesubstrate 	
+Conflicts: com.RDX.deletreport
+Filename: debs/RDX.deletreport.deb
+Size: 65244
+MD5sum:	768f24b5768ddf686ed53ecbcfc311a8
+SHA1: 821ec4f0a049d4e86d2d160219804f4bb0692578
+SHA256: 3bf29f6536d55b6a8a89213f27be83afb70f94d87aa2c5505139cdddc7a9cdcf
+Section: Tweaks	Section: RDX deletreport
+Depiction: https://rdxtools.github.io/repo
+Name: RDX deletreport
