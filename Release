@@ -1,0 +1,7 @@
+Origin: RdxTools
+Lable: RdxTools
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: Rdx ادوات 
