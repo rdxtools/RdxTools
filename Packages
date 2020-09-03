@@ -58,21 +58,6 @@ Section: Mission
 Depiction: https://rdxtools.github.io/repo
 Name: Choicy
 
-Package: xyz.willy.zebra
-Version: 1.1.12
-Architecture: iphoneos-arm
-Maintainer: متجر مشابهة للسيديا
-Depends:  	dpkg, uikittools, firmware (>= 9.0)
-Conflicts: xyz.willy.zebra
-Filename: debs/zebra.deb
-Size: 27410630 
-MD5sum:	a2f59946f6ed2d252f48c73f2ffc31fa
-SHA1: 225ce7cdd190060077a4d25c81fa0f56dbea1d4f
-SHA256: 4bdff1dc13b6124dbe3b2d952113b3440d2e4932919676c334a994462d8c3cac
-Section: Mission
-Depiction: https://rdxtools.github.io/repo
-Name: Zebra
-
 Package: com.tigisoftware.filza
 Version: 3.8.0-20
 Architecture: iphoneos-arm
