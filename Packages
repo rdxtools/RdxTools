@@ -132,3 +132,18 @@ SHA256: beb0b734471cedb912df492d01f4aefaeeb72e1ff41939fca61981faa9cc5110
 Section: Jailbreak certification
 Depiction: https://rdxtools.github.io/repo
 Name: ReProvision
+
+Package: jp.panorama.kernbypass
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: اداة اخفاء جلبريك ممتازة جدا
+Depends: 	mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Conflicts: jp.panorama.kernbypass
+Filename: debs/KernBypass.deb
+Size: 15100 
+MD5sum: 9cacdf7211f6fdfb902f8bef00104a46
+SHA1: 9490a37c584da712b4d46a2f27795be9fbafbba9
+SHA256: b962df1a18238b5f9e763a07e91a3ab98f194ef76b0e6e8d94657815e599ab71
+Section: Mission
+Depiction: https://rdxtools.github.io/repo
+Name: KernBypass
