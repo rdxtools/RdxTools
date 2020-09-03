@@ -48,7 +48,7 @@ Version: 1.2.4-2
 Architecture: iphoneos-arm 
 Maintainer: اخفاء الجلبريك
 Depends:  	http://moreinfo.thebigboss.org/
-Conflicts: com.rdxtools.choicy
+Conflicts: com.opa334.choicy
 Filename: debs/choicy.deb
 Size: 176292
 MD5sum:	f504252b78ff55ecbef2665ec4a410ae
@@ -93,7 +93,7 @@ Version: 1.5.3-2
 Architecture: iphoneos-arm
 Maintainer: App Manager
 Depends:  	This tool provides the way to WIPE, 
-Conflicts: com.rdxtools.appdatamanager
+Conflicts: com.tigisoftware.appdatamanager
 Filename: debs/App_Manager.deb
 Size: 3670352 
 MD5sum:	445289a401f6634d557ea0a9e5533b1b
@@ -107,7 +107,7 @@ Package: com.rileytestut.altstore.alpha.jailbroken
 Version: 1.4a7
 Architecture: iphoneos-arm
 Maintainer: اداة شهادة مدي الحياة
-Depends:  	com.rdxtools.altstore.alpha.jailbroken
+Depends:  	com.rileytestut.altstore.alpha.jailbroken
 Conflicts: firmware (>= 12.2), com.linusyang.appinst
 Filename: debs/AltStore.deb
 Size: 720 
@@ -123,7 +123,7 @@ Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: تابعة للاداة AltStore
 Depends:  	firmware (>= 12.2)
-Conflicts: com.rdxtools.altdaemon
+Conflicts: com.rileytestut.altdaemon
 Filename: debs/Altdaemon.deb
 Size: 873336 
 MD5sum:	fff51af0c7cf35a47d03287d60c747fa
@@ -138,7 +138,7 @@ Version: 0.5.2~EOL
 Architecture: iphoneos-arm
 Maintainer: اداة شهادة مدي الحياة 
 Depends:  	firmware (>= 9.0)
-Conflicts: com.rdxtools.reprovision
+Conflicts: com.matchstic.reprovision
 Filename: debs/Reprovision.deb
 Size: 14391172 
 MD5sum:	8a143c452a6d36b68593aa374663985a
@@ -148,13 +148,12 @@ Section: Jailbreak certification
 Depiction: https://rdxtools.github.io/repo
 Name: ReProvision
 
-
 Package: jp.panorama.kernbypass
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: اداة اخفاء جلبريك ممتازة جدا
 Depends: 	mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
-Conflicts: jp.mission.kernbypass
+Conflicts: jp.panorama.kernbypass
 Filename: debs/KernBypass.deb
 Size: 15100 
 MD5sum: 9cacdf7211f6fdfb902f8bef00104a46
