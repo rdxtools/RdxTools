@@ -6,9 +6,9 @@ Depends: 	mobilesubstrate
 Conflicts: my
 Filename: debs/my_0.17_iphoneos-arm.deb
 Size: 705504
-MD5sum: a43f4021c0c7aeff9c1fab1664e8517b
-SHA1: 66a64a2ab4e3ccd500e920ba2e42d178c847f534
-SHA256: 1e5cd537f1655248ec03f5b918e18af3f6c391a3dddd41eed16abb698c21fe48
+MD5sum: 47b4947038f42f18227f3afd40b15d5e
+SHA1: 5569fb58a6c441b207c31187f348fb0fbb4d3dda
+SHA256: 0811c59f54760ad32c78cc49c20f8fb3d9c8c273e63bb816673ae3cb70835b57
 Section: Tweaks	
 Depiction: https://rdxtools.github.io/repo
 Name: MOD MENU RDX
@@ -102,5 +102,6 @@ SHA256: a34c20ccd04eff3f894fe41504162847a64ff93e611894c6ef927ac38940475f
 Section: Mission
 Depiction: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDeamon
+
 
 
