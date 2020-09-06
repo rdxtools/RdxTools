@@ -2,16 +2,16 @@ Package: my
 Version: 0.17
 Architecture: iphoneos-arm
 Maintainer: مود منيو 
-Depends: mobilesubstrate 	
+Depends: 	mobilesubstrate
 Conflicts: my
-Filename: debs/RDXMenu_1.1.0.deb
-Size: 954850
-MD5sum: 8ebaa13546618d6e369bf3b730444ddf
-SHA1: 214ae65734c874a1cb9a422af627a389952a7c72
-SHA256:	a1f151f5216d81aa92e4cca1621848c5a5c0c119b2893032084fb9556726af88
+Filename: debs/my_0.17_iphoneos-arm.deb
+Size: 705504
+MD5sum: a43f4021c0c7aeff9c1fab1664e8517b
+SHA1: 66a64a2ab4e3ccd500e920ba2e42d178c847f534
+SHA256: 1e5cd537f1655248ec03f5b918e18af3f6c391a3dddd41eed16abb698c21fe48
 Section: Tweaks	
 Depiction: https://rdxtools.github.io/repo
-Name: RdxMenu
+Name: MOD MENU RDX
 
 Package: com.RDX.deletreport
 Version: 0.18
@@ -28,21 +28,6 @@ Section: Tweaks
 Depiction: https://rdxtools.github.io/repo
 Name: RDX deletreport
 
-Package: com.exile90.icleanerpro
-Version: 7.8.3
-Architecture: iphoneos-arm
-Maintainer: اداة تنظيف الجهاز
-Depends:  	firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Filename: debs/iCleaner_pro.deb
-Size: 5354332
-MD5sum:	42dd30af92dbaf1c086998fea5095552
-SHA1: 9e9b0f21c70f2e82c0dbcf4b8d12d6302e728ef9
-SHA256: e387024f177b7f20b4a72f2d0b59b8f5cf36d7a46d30b5306d089f901f648f73
-Section: Mission
-Depiction: https://rdxtools.github.io/repo
-Name: iCleaner Pro
-
 Package: com.tigisoftware.filza
 Version: 3.8.0-20
 Architecture: iphoneos-arm
@@ -58,5 +43,64 @@ Section: Mission
 Depiction: File Manager for iPhone, iPad, iPod 
 Name: Filza File Manager
 
+Package: com.hackyouriphone.icleanerpro
+Version: 7.8.3k
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Filename: debs/com.hackyouriphone.icleanerpro_7.8.3k_iphoneos-arm.deb
+Size: 5402094 
+MD5sum:	e52dc5cac03c71839d6e50d9f622e496
+SHA1: a7daea23752d505a4fd8ec1a1866b525c06652b5
+SHA256: ca1fee6a267d146c3dac2b3ab302cb6716892fe8128c82761b03a1961ca41983
+Section: Mission
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icleanerpro
+Name: iCleaner Pro
+
+Package: jp.panorama.kernbypass
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: akusio
+Depends: mobilesubstrate, applist, 
+Conflicts: jp.kernpass.kernbypass
+Filename: debs/Kernbypass.deb
+Size: 15100 
+MD5sum: 9cacdf7211f6fdfb902f8bef00104a46
+SHA1: 9490a37c584da712b4d46a2f27795be9fbafbba9
+SHA256: b962df1a18238b5f9e763a07e91a3ab98f194ef76b0e6e8d94657815e599ab71
+Section: Mission
+Depiction: http://panorama.firepo.me/view/19
+Name: KernBypass
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4a1
+Architecture: iphoneos-arm
+Maintainer: Riley Testut
+Depends: firmware (>=8)
+Conflicts: com.rileytestut.altstore.altstore.jailbroken
+Filename: debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
+Size: 2486558
+MD5sum: fb92f38b4220943818273a47efd5a818
+SHA1: 7c42178b822e1856a555340c3408bd3cecf285bc
+SHA256: f232f2392261e0b6c03d84ad13990efdb4c729e5737441cb108b9581fe08659f
+Section: Mission
+Depiction: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore
+
+Package: com.rileytestut.altdaemon
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Riley Testut
+Depends: firmware (>= 12.2)
+Conflicts: com.system.altdaemon
+Filename: debs/com.rileytestut.altdaemon_0.2_iphoneos-arm.deb
+Size: 873334
+MD5sum: 22ff79f1b2a83a7a2c0a5e9dee4c750a
+SHA1: 49c5824b665785a2627f360ffe7bbff36e3a87c8
+SHA256: a34c20ccd04eff3f894fe41504162847a64ff93e611894c6ef927ac38940475f
+Section: Mission
+Depiction: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDeamon
 
 
