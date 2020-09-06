@@ -73,35 +73,7 @@ Section: Mission
 Depiction: http://panorama.firepo.me/view/19
 Name: KernBypass
 
-Package: com.rileytestut.altstore.alpha.jailbroken
-Version: 1.4a1
-Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Depends: firmware (>=8)
-Conflicts: com.rileytestut.altstore.altstore.jailbroken
-Filename: debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
-Size: 2486558
-MD5sum: fb92f38b4220943818273a47efd5a818
-SHA1: 7c42178b822e1856a555340c3408bd3cecf285bc
-SHA256: f232f2392261e0b6c03d84ad13990efdb4c729e5737441cb108b9581fe08659f
-Section: Mission
-Depiction: Jailbroken version of AltStore with on device signing feauture.
-Name: AltStore
 
-Package: com.rileytestut.altdaemon
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Depends: firmware (>= 12.2)
-Conflicts: com.system.altdaemon
-Filename: debs/com.rileytestut.altdaemon_0.2_iphoneos-arm.deb
-Size: 873334
-MD5sum: 22ff79f1b2a83a7a2c0a5e9dee4c750a
-SHA1: 49c5824b665785a2627f360ffe7bbff36e3a87c8
-SHA256: a34c20ccd04eff3f894fe41504162847a64ff93e611894c6ef927ac38940475f
-Section: Mission
-Depiction: AltDaemon allows AltStore to install and refresh apps without a computer.
-Name: AltDeamon
 
 
 
